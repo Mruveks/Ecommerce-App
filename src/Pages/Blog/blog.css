@@ -1,20 +1,17 @@
 .blog_container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 1rem;
-    padding-top: 4em;
-    
-    margin-right: 10%;
-    margin-left: 10%;
-    
+    row-gap: 4rem;
+    padding-top: 4em;   
 }
 
 .blog_component{
-    width: 20rem;
+    width: 60%;
     height: 40rem;
     padding: 1rem;
     margin: 0 auto;
-
     border: 1px solid black;
-    border-radius: 15px;
+    background-color: #333;
+    box-shadow: 25px 20px #A9A9A9;
+    color: white;
 }

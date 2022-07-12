@@ -1,6 +1,6 @@
 import React from 'react'
-import Nav from '../NavBar/Nav'
-import "./apparel.css"
+import Nav from '../../NavBar/Nav'
+import "./womanApparel.css"
 
 const WomanApparel = () => {
     return (

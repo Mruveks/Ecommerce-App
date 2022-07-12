@@ -1,11 +1,11 @@
-.footwear_container{
+.accessories_container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 4rem;
     padding-top: 4em;   
 }
 
-.footwear_component{
+.accessories_component{
     width: 60%;
     height: 40rem;
     padding: 1rem;
