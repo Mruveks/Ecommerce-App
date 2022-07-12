@@ -1,0 +1,25 @@
+.apparel_container{
+    margin-top: 8rem;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.apparel_content{
+    height: 20rem;
+    width: 40rem;
+    background-color: #333;
+    box-shadow: 25px 20px #A9A9A9;
+    color: white;
+
+    font-family: "Dirtchunk-0W0AR";
+    line-height: 20rem;
+    font-size: 75px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.apparel_content:hover{
+    transform: scale(1.05,1.05);
+    cursor: pointer;
+}
