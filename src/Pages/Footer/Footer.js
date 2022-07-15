@@ -5,10 +5,10 @@ const Footer = () => {
     return (
         <footer>
             <div className="footer_container">
-                <a>About me</a>
+                <a href="https://react-portfolio-kuba.herokuapp.com/" target="_blank">About me</a>
                 <h2>Register for free</h2>
                 <h2>Sign up to our newsletter!</h2>
-                <a>Contact me</a>
+                <a href="https://react-portfolio-kuba.herokuapp.com/#contact" target="_blank">Contact me</a>
             </div>
         </footer>    
     )

@@ -1,0 +1,18 @@
+.cart_btn{
+    position: fixed; 
+    top: 30px; 
+    right: 30px;  
+    border: none; 
+    outline: none;
+    background-color: 	#404040;
+    box-shadow: 10px 5px #A9A9A9;
+    color: white; 
+    cursor: pointer; 
+    padding: 0.5rem; 
+    font-size: 20px; 
+}
+
+.cart_btn > div:hover{
+    transform: rotate(360deg);
+    transition: 1s;
+}

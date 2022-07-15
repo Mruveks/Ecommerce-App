@@ -4,6 +4,7 @@ import Nav from '../NavBar/Nav'
 import "./apparel.css"
 import ScrollUp from '../../components/scrollButton/ScrollUp'
 import Footer from '../Footer/Footer'
+import Cartbutton from '../../components/cartButton/Cartbutton'
 
 const Apparel = () => {
 
@@ -11,8 +12,9 @@ const Apparel = () => {
 
     return (
         <div>
-            <h1>Existential crisis</h1>
+            <h1>Static Workshop</h1>
             <Nav/>
+            <Cartbutton />
             <div className="apparel_container">
                 <div className="apparel_content" onClick={() => navigate("/apparel/woman")}>
                     Woman
