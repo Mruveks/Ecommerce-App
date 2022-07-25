@@ -18,10 +18,8 @@ const NewArrivals = () => {
             
             <div className="NewArrivals_component">
                 <img src={img} alt=""/>
-                <div className="NewArrivals_component_text">
                 <h2>MXCII T-SHIRT</h2>
                 <span>Limited edition out of space marble t-shirt signed by Italian artist Merido Giovanni</span>
-                </div>
             </div>
             <div className="NewArrivals_component">
                 <img src={img2} alt=""/>
@@ -29,15 +27,20 @@ const NewArrivals = () => {
             </div>
             <div className="NewArrivals_component">
                 <img src={img3} alt=""/>
+                <h2>CASUAL</h2>
             </div>
             <div className="NewArrivals_component">
-            loremipsum
+                <img src={img3} alt=""/>
+                <h2>CASUAL</h2>
             </div>
             <div className="NewArrivals_component">
-            loremipsum
+                <img src={img} alt=""/>
+                <h2>MXCII T-SHIRT</h2>
+                <span>Limited edition out of space marble t-shirt signed by Italian artist Merido Giovanni</span>
             </div>
             <div className="NewArrivals_component">
-            loremipsum
+                <img src={img2} alt=""/>
+                <h2>CH FIT SHIRT</h2>
             </div>
         </div>
 

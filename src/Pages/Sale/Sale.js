@@ -13,22 +13,22 @@ const Sale = () => {
             <div className="blog_container">
             
             <div className="blog_component">
-                loremipsum
+            sale sale sale
             </div>
             <div className="blog_component">
-                loremipsum
+            sale sale sale
             </div>
             <div className="blog_component">
-            loremipsum
+            sale sale sale
             </div>
             <div className="blog_component">
-            loremipsum
+            sale sale sale
             </div>
             <div className="blog_component">
-            loremipsum
+            sale sale sale
             </div>
             <div className="blog_component">
-            loremipsum
+            sale sale sale
             </div>
         </div>
 

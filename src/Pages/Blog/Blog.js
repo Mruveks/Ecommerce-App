@@ -6,22 +6,22 @@ const Blog = () => {
         <div className="blog_container">
             
             <div className="blog_component">
-                loremipsum
+                Blog
             </div>
             <div className="blog_component">
-                loremipsum
+            Blog
             </div>
             <div className="blog_component">
-            loremipsum
+            Blog
             </div>
             <div className="blog_component">
-            loremipsum
+            Blog
             </div>
             <div className="blog_component">
-            loremipsum
+            Blog
             </div>
             <div className="blog_component">
-            loremipsum
+            Blog
             </div>
         </div>
     )

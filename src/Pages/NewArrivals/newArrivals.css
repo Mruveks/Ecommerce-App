@@ -2,15 +2,16 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 4rem;
-    padding-top: 4em;   
+    padding-top: 4em;  
 }
 
 .NewArrivals_component{
     width: 60%;
-    height: 40rem;
+    height: fit-content;
     margin: 0 auto;
     background-color: #fff;
     box-shadow: 25px 20px #A9A9A9;
+    text-align: center;
     
     display: grid;
     grid-template-columns: 1fr;
@@ -18,7 +19,6 @@
 }
 .NewArrivals_component_text{
     border: 1px solid black;
-    text-align: center;
     color: black;
 }
 .NewArrivals_component:hover{

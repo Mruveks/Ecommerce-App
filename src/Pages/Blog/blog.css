@@ -15,3 +15,9 @@
     box-shadow: 25px 20px #A9A9A9;
     color: white;
 }
+
+.blog_component:hover{
+    background: #fff;
+
+    transition: 0.2s ease-in;
+}

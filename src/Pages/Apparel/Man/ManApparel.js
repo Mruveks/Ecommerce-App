@@ -5,7 +5,7 @@ import "./manApparel.css"
 const ManApparel = () => {
     return (
         <div>
-            <h1>Existential crisis</h1>
+            <h1>Static Workshop</h1>
             <Nav/>
             <div className="Man_apparel_container">
 

@@ -14,27 +14,27 @@ const Footwear = () => {
             <div className="footwear_container">
             
             <div className="footwear_component">
-                loremipsum
+            footwear
             </div>
             <div className="footwear_component">
-                loremipsum
+            footwear
             </div>
             <div className="footwear_component">
-            loremipsum
+            footwear
             </div>
             <div className="footwear_component">
-            loremipsum
+            footwear
             </div>
             <div className="footwear_component">
-            loremipsum
+            footwear
             </div>
             <div className="footwear_component">
-            loremipsum
+            footwear
             </div>
         </div>
 
         <ScrollUp />
-            <Footer />
+           <Footer />
         </div>
     )
 }

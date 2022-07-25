@@ -5,7 +5,7 @@ import "./womanApparel.css"
 const WomanApparel = () => {
     return (
         <div>
-            <h1>Existential crisis</h1>
+            <h1>Static Workshop</h1>
             <Nav/>
             <div className="apparel_container">
    

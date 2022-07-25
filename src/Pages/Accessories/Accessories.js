@@ -14,22 +14,22 @@ const Accessories = () => {
             <div className="accessories_container">
             
             <div className="accessories_component">
-                loremipsum
+                accessories
             </div>
             <div className="accessories_component">
-                loremipsum
+            accessories
             </div>
             <div className="accessories_component">
-            loremipsum
+            accessories
             </div>
             <div className="accessories_component">
-            loremipsum
+            accessories
             </div>
             <div className="accessories_component">
-            loremipsum
+            accessories
             </div>
             <div className="accessories_component">
-            loremipsum
+            accessories
             </div>
         </div>
 
